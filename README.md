@@ -24,4 +24,4 @@ La clase `UtilidadesMatematicas` provee los siguientes métodos estáticos:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [<URL_DE_TU_REPOSITORIO>](https://github.com/Lfiedlerf/M4_AE7_ABP)
+   git clone https://github.com/Lfiedlerf/M4_AE7_ABP
