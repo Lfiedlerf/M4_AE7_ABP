@@ -1,0 +1,26 @@
+# --- Archivos compilados y de construcción (Maven) ---
+target/
+*.class
+
+# --- Archivos de configuración del IDE (IntelliJ IDEA) ---
+# Nunca subas esto, porque son configuraciones de TU computadora
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# --- Archivos del sistema operativo ---
+# Mac
+.DS_Store
+# Windows
+Thumbs.db
+
+# --- Logs y archivos temporales ---
+*.log
+*.tmp
+
+# --- Archivos de empaquetado (por si se generan fuera de target) ---
+*.jar
+*.war
+*.ear
